@@ -20,3 +20,7 @@ Starter Code : https://github.com/coding-boot-camp/crispy-octo-meme
 
 MIT License
 
+## Deployment
+
+![Image of the deployed "work-day-scheduler" website](assets/workday-scheduler-deployed.png)
+Link to the deployed website: https://katycaroline.github.io/work-day-scheduler/
